@@ -1,0 +1,16 @@
+body{
+color: aliceblue;
+background-image: url(./imatges/fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+table {
+
+    border-collapse: collapse;
+    border-color: aliceblue;
+  }
+td,th{
+    border: 1px solid aliceblue;
+    padding: 10px;
+}
